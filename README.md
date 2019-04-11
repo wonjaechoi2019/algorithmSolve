@@ -1,0 +1,2 @@
+# algorithmSolve
+algorithm solve
